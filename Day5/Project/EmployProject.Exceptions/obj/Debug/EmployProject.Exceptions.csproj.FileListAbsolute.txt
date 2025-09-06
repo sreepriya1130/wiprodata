@@ -1,0 +1,6 @@
+D:\WIPRO\Day5\Project\EmployProject.Exceptions\bin\Debug\EmployProject.Exceptions.dll
+D:\WIPRO\Day5\Project\EmployProject.Exceptions\bin\Debug\EmployProject.Exceptions.pdb
+D:\WIPRO\Day5\Project\EmployProject.Exceptions\obj\Debug\EmployProject.Exceptions.csproj.AssemblyReference.cache
+D:\WIPRO\Day5\Project\EmployProject.Exceptions\obj\Debug\EmployProject.Exceptions.csproj.CoreCompileInputs.cache
+D:\WIPRO\Day5\Project\EmployProject.Exceptions\obj\Debug\EmployProject.Exceptions.dll
+D:\WIPRO\Day5\Project\EmployProject.Exceptions\obj\Debug\EmployProject.Exceptions.pdb

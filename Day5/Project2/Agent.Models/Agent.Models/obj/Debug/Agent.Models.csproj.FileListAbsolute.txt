@@ -1,0 +1,6 @@
+D:\WIPRO\Day5\Project2\Agent.Models\Agent.Models\bin\Debug\Agent.Models.dll
+D:\WIPRO\Day5\Project2\Agent.Models\Agent.Models\bin\Debug\Agent.Models.pdb
+D:\WIPRO\Day5\Project2\Agent.Models\Agent.Models\obj\Debug\Agent.Models.csproj.AssemblyReference.cache
+D:\WIPRO\Day5\Project2\Agent.Models\Agent.Models\obj\Debug\Agent.Models.csproj.CoreCompileInputs.cache
+D:\WIPRO\Day5\Project2\Agent.Models\Agent.Models\obj\Debug\Agent.Models.dll
+D:\WIPRO\Day5\Project2\Agent.Models\Agent.Models\obj\Debug\Agent.Models.pdb

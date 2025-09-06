@@ -1,0 +1,6 @@
+D:\WIPRO\Day4\ExtensionLibrary\bin\Debug\ExtensionLibrary.dll
+D:\WIPRO\Day4\ExtensionLibrary\bin\Debug\ExtensionLibrary.pdb
+D:\WIPRO\Day4\ExtensionLibrary\obj\Debug\ExtensionLibrary.csproj.AssemblyReference.cache
+D:\WIPRO\Day4\ExtensionLibrary\obj\Debug\ExtensionLibrary.csproj.CoreCompileInputs.cache
+D:\WIPRO\Day4\ExtensionLibrary\obj\Debug\ExtensionLibrary.dll
+D:\WIPRO\Day4\ExtensionLibrary\obj\Debug\ExtensionLibrary.pdb

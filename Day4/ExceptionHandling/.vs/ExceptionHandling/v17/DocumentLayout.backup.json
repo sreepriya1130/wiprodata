@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WIPRO\\Day4\\ExceptionHandling\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5AA935-1000-4C96-8E52-C121C2F657F2}|ExceptionHandling\\ExceptionHandling.csproj|d:\\wipro\\day4\\exceptionhandling\\exceptionhandling\\arrayex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5AA935-1000-4C96-8E52-C121C2F657F2}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\arrayex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ExceptionHandling||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5AA935-1000-4C96-8E52-C121C2F657F2}|ExceptionHandling\\ExceptionHandling.csproj|d:\\wipro\\day4\\exceptionhandling\\exceptionhandling\\voting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5AA935-1000-4C96-8E52-C121C2F657F2}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\voting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5AA935-1000-4C96-8E52-C121C2F657F2}|ExceptionHandling\\ExceptionHandling.csproj|d:\\wipro\\day4\\exceptionhandling\\exceptionhandling\\stringex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5AA935-1000-4C96-8E52-C121C2F657F2}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\stringex1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5AA935-1000-4C96-8E52-C121C2F657F2}|ExceptionHandling\\ExceptionHandling.csproj|d:\\wipro\\day4\\exceptionhandling\\exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED5AA935-1000-4C96-8E52-C121C2F657F2}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED5AA935-1000-4C96-8E52-C121C2F657F2}|ExceptionHandling\\ExceptionHandling.csproj|d:\\wipro\\day4\\exceptionhandling\\exceptionhandling\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayEx.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day4\\ExceptionHandling\\ExceptionHandling\\ArrayEx.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\ArrayEx.cs",
+              "ToolTip": "D:\\WIPRO\\Day4\\ExceptionHandling\\ExceptionHandling\\ArrayEx.cs*",
+              "RelativeToolTip": "ExceptionHandling\\ArrayEx.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T11:20:44.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Voting.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day4\\ExceptionHandling\\ExceptionHandling\\Voting.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\Voting.cs",
+              "ToolTip": "D:\\WIPRO\\Day4\\ExceptionHandling\\ExceptionHandling\\Voting.cs",
+              "RelativeToolTip": "ExceptionHandling\\Voting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:57:43.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "stringEx1.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day4\\ExceptionHandling\\ExceptionHandling\\stringEx1.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\stringEx1.cs",
+              "ToolTip": "D:\\WIPRO\\Day4\\ExceptionHandling\\ExceptionHandling\\stringEx1.cs",
+              "RelativeToolTip": "ExceptionHandling\\stringEx1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T10:28:07.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExceptionHandling",
+              "DocumentMoniker": "D:\\WIPRO\\Day4\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.csproj",
+              "RelativeDocumentMoniker": "ExceptionHandling\\ExceptionHandling.csproj",
+              "ToolTip": "D:\\WIPRO\\Day4\\ExceptionHandling\\ExceptionHandling\\ExceptionHandling.csproj",
+              "RelativeToolTip": "ExceptionHandling\\ExceptionHandling.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-24T10:20:11.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day4\\ExceptionHandling\\ExceptionHandling\\Program.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\Program.cs",
+              "ToolTip": "D:\\WIPRO\\Day4\\ExceptionHandling\\ExceptionHandling\\Program.cs",
+              "RelativeToolTip": "ExceptionHandling\\Program.cs",
+              "ViewState": "AgIAABkAAAAAMzMzMzPzvygAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:25:52.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

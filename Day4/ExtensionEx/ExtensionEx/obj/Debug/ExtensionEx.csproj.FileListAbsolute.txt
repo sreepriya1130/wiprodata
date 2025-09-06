@@ -1,0 +1,8 @@
+D:\WIPRO\Day4\ExtensionEx\ExtensionEx\bin\Debug\ExtensionEx.exe.config
+D:\WIPRO\Day4\ExtensionEx\ExtensionEx\bin\Debug\ExtensionEx.exe
+D:\WIPRO\Day4\ExtensionEx\ExtensionEx\bin\Debug\ExtensionEx.pdb
+D:\WIPRO\Day4\ExtensionEx\ExtensionEx\obj\Debug\ExtensionEx.csproj.AssemblyReference.cache
+D:\WIPRO\Day4\ExtensionEx\ExtensionEx\obj\Debug\ExtensionEx.csproj.CoreCompileInputs.cache
+D:\WIPRO\Day4\ExtensionEx\ExtensionEx\obj\Debug\ExtensionEx.exe
+D:\WIPRO\Day4\ExtensionEx\ExtensionEx\obj\Debug\ExtensionEx.pdb
+D:\WIPRO\Day4\ExtensionEx\ExtensionEx\obj\Debug\ExtensionEx.exe.config

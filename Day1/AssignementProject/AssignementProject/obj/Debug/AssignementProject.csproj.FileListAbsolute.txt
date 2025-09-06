@@ -1,0 +1,7 @@
+D:\WIPRO\Day1\AssignementProject\AssignementProject\obj\Debug\AssignementProject.csproj.AssemblyReference.cache
+D:\WIPRO\Day1\AssignementProject\AssignementProject\obj\Debug\AssignementProject.csproj.CoreCompileInputs.cache
+D:\WIPRO\Day1\AssignementProject\AssignementProject\bin\Debug\AssignementProject.pdb
+D:\WIPRO\Day1\AssignementProject\AssignementProject\obj\Debug\AssignementProject.pdb
+D:\WIPRO\Day1\AssignementProject\AssignementProject\bin\Debug\AssignementProject.dll.config
+D:\WIPRO\Day1\AssignementProject\AssignementProject\bin\Debug\AssignementProject.dll
+D:\WIPRO\Day1\AssignementProject\AssignementProject\obj\Debug\AssignementProject.dll

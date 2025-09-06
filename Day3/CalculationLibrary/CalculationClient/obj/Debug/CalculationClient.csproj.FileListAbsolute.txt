@@ -1,0 +1,11 @@
+D:\WIPRO\Day3\CalculationLibrary\CalculationClient\bin\Debug\CalculationClient.exe.config
+D:\WIPRO\Day3\CalculationLibrary\CalculationClient\bin\Debug\CalculationClient.exe
+D:\WIPRO\Day3\CalculationLibrary\CalculationClient\bin\Debug\CalculationClient.pdb
+D:\WIPRO\Day3\CalculationLibrary\CalculationClient\bin\Debug\CalculationLibrary.dll
+D:\WIPRO\Day3\CalculationLibrary\CalculationClient\bin\Debug\CalculationLibrary.pdb
+D:\WIPRO\Day3\CalculationLibrary\CalculationClient\obj\Debug\CalculationClient.csproj.AssemblyReference.cache
+D:\WIPRO\Day3\CalculationLibrary\CalculationClient\obj\Debug\CalculationClient.csproj.CoreCompileInputs.cache
+D:\WIPRO\Day3\CalculationLibrary\CalculationClient\obj\Debug\Calculat.2EA6E86F.Up2Date
+D:\WIPRO\Day3\CalculationLibrary\CalculationClient\obj\Debug\CalculationClient.exe
+D:\WIPRO\Day3\CalculationLibrary\CalculationClient\obj\Debug\CalculationClient.pdb
+D:\WIPRO\Day3\CalculationLibrary\CalculationClient\obj\Debug\CalculationClient.exe.config

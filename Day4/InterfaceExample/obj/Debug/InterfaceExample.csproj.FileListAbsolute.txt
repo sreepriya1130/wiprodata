@@ -1,0 +1,8 @@
+D:\WIPRO\Day4\InterfaceExample\bin\Debug\InterfaceExample.exe.config
+D:\WIPRO\Day4\InterfaceExample\bin\Debug\InterfaceExample.exe
+D:\WIPRO\Day4\InterfaceExample\bin\Debug\InterfaceExample.pdb
+D:\WIPRO\Day4\InterfaceExample\obj\Debug\InterfaceExample.csproj.AssemblyReference.cache
+D:\WIPRO\Day4\InterfaceExample\obj\Debug\InterfaceExample.csproj.CoreCompileInputs.cache
+D:\WIPRO\Day4\InterfaceExample\obj\Debug\InterfaceExample.exe
+D:\WIPRO\Day4\InterfaceExample\obj\Debug\InterfaceExample.pdb
+D:\WIPRO\Day4\InterfaceExample\obj\Debug\InterfaceExample.exe.config

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WIPRO\\Day6\\MockExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{340E59A2-CB9F-4400-B5E1-0B1CA7A5998C}|MockExample\\MockExample.csproj|d:\\wipro\\day6\\mockexample\\mockexample\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340E59A2-CB9F-4400-B5E1-0B1CA7A5998C}|MockExample\\MockExample.csproj|solutionrelative:mockexample\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340E59A2-CB9F-4400-B5E1-0B1CA7A5998C}|MockExample\\MockExample.csproj|d:\\wipro\\day6\\mockexample\\mockexample\\idetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340E59A2-CB9F-4400-B5E1-0B1CA7A5998C}|MockExample\\MockExample.csproj|solutionrelative:mockexample\\idetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340E59A2-CB9F-4400-B5E1-0B1CA7A5998C}|MockExample\\MockExample.csproj|d:\\wipro\\day6\\mockexample\\mockexample\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340E59A2-CB9F-4400-B5E1-0B1CA7A5998C}|MockExample\\MockExample.csproj|solutionrelative:mockexample\\details.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{340E59A2-CB9F-4400-B5E1-0B1CA7A5998C}|MockExample\\MockExample.csproj|d:\\wipro\\day6\\mockexample\\mockexample\\detailstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{340E59A2-CB9F-4400-B5E1-0B1CA7A5998C}|MockExample\\MockExample.csproj|solutionrelative:mockexample\\detailstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetailsTest.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day6\\MockExample\\MockExample\\DetailsTest.cs",
+              "RelativeDocumentMoniker": "MockExample\\DetailsTest.cs",
+              "ToolTip": "D:\\WIPRO\\Day6\\MockExample\\MockExample\\DetailsTest.cs",
+              "RelativeToolTip": "MockExample\\DetailsTest.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:24:09.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day6\\MockExample\\MockExample\\Details.cs",
+              "RelativeDocumentMoniker": "MockExample\\Details.cs",
+              "ToolTip": "D:\\WIPRO\\Day6\\MockExample\\MockExample\\Details.cs",
+              "RelativeToolTip": "MockExample\\Details.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T13:01:54.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IDetails.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day6\\MockExample\\MockExample\\IDetails.cs",
+              "RelativeDocumentMoniker": "MockExample\\IDetails.cs",
+              "ToolTip": "D:\\WIPRO\\Day6\\MockExample\\MockExample\\IDetails.cs",
+              "RelativeToolTip": "MockExample\\IDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:59:40.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day6\\MockExample\\MockExample\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "MockExample\\UnitTest1.cs",
+              "ToolTip": "D:\\WIPRO\\Day6\\MockExample\\MockExample\\UnitTest1.cs",
+              "RelativeToolTip": "MockExample\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T12:52:14.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

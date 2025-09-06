@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WIPRO\\Day4\\ExtensionEx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FB6808-0D25-4378-823E-C50F3B894D13}|..\\InterfaceEx2\\InterfaceEx2.csproj|d:\\wipro\\day4\\interfaceex2\\itwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FB6808-0D25-4378-823E-C50F3B894D13}|..\\InterfaceEx2\\InterfaceEx2.csproj|d:\\wipro\\day4\\interfaceex2\\ione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FB6808-0D25-4378-823E-C50F3B894D13}|..\\InterfaceEx2\\InterfaceEx2.csproj|d:\\wipro\\day4\\interfaceex2\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156DBC4D-005D-46EC-94AF-280B7BC8EC9C}|..\\InterfaceExample\\InterfaceExample.csproj|d:\\wipro\\day4\\interfaceexample\\badri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156DBC4D-005D-46EC-94AF-280B7BC8EC9C}|..\\InterfaceExample\\InterfaceExample.csproj|d:\\wipro\\day4\\interfaceexample\\itraining.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156DBC4D-005D-46EC-94AF-280B7BC8EC9C}|..\\InterfaceExample\\InterfaceExample.csproj|d:\\wipro\\day4\\interfaceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3FB6808-0D25-4378-823E-C50F3B894D13}|..\\InterfaceEx2\\InterfaceEx2.csproj|d:\\wipro\\day4\\interfaceex2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156DBC4D-005D-46EC-94AF-280B7BC8EC9C}|..\\InterfaceExample\\InterfaceExample.csproj|d:\\wipro\\day4\\interfaceexample\\harika.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Demo.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day4\\InterfaceEx2\\Demo.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceEx2\\Demo.cs",
+              "ToolTip": "D:\\WIPRO\\Day4\\InterfaceEx2\\Demo.cs*",
+              "RelativeToolTip": "..\\InterfaceEx2\\Demo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:45:34.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Itwo.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day4\\InterfaceEx2\\Itwo.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceEx2\\Itwo.cs",
+              "ToolTip": "D:\\WIPRO\\Day4\\InterfaceEx2\\Itwo.cs",
+              "RelativeToolTip": "..\\InterfaceEx2\\Itwo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:45:04.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ione.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day4\\InterfaceEx2\\Ione.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceEx2\\Ione.cs",
+              "ToolTip": "D:\\WIPRO\\Day4\\InterfaceEx2\\Ione.cs*",
+              "RelativeToolTip": "..\\InterfaceEx2\\Ione.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:44:40.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day4\\InterfaceEx2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceEx2\\Program.cs",
+              "ToolTip": "D:\\WIPRO\\Day4\\InterfaceEx2\\Program.cs",
+              "RelativeToolTip": "..\\InterfaceEx2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:43:51.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "badri.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day4\\InterfaceExample\\badri.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceExample\\badri.cs",
+              "ToolTip": "D:\\WIPRO\\Day4\\InterfaceExample\\badri.cs",
+              "RelativeToolTip": "..\\InterfaceExample\\badri.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:35:09.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITraining.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day4\\InterfaceExample\\ITraining.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceExample\\ITraining.cs",
+              "ToolTip": "D:\\WIPRO\\Day4\\InterfaceExample\\ITraining.cs",
+              "RelativeToolTip": "..\\InterfaceExample\\ITraining.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:30:10.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "harika.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day4\\InterfaceExample\\harika.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceExample\\harika.cs",
+              "ToolTip": "D:\\WIPRO\\Day4\\InterfaceExample\\harika.cs",
+              "RelativeToolTip": "..\\InterfaceExample\\harika.cs",
+              "ViewState": "AgIAAAUAAAAAMjMzMzPbvxMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:26:38.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day4\\InterfaceExample\\Program.cs",
+              "RelativeDocumentMoniker": "..\\InterfaceExample\\Program.cs",
+              "ToolTip": "D:\\WIPRO\\Day4\\InterfaceExample\\Program.cs",
+              "RelativeToolTip": "..\\InterfaceExample\\Program.cs",
+              "ViewState": "AgIAAAEAAAAgNDMzM7MiwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T19:24:20.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

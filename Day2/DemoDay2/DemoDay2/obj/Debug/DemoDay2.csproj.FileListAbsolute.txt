@@ -1,0 +1,8 @@
+D:\WIPRO\Day2\DemoDay2\DemoDay2\bin\Debug\DemoDay2.exe.config
+D:\WIPRO\Day2\DemoDay2\DemoDay2\bin\Debug\DemoDay2.exe
+D:\WIPRO\Day2\DemoDay2\DemoDay2\bin\Debug\DemoDay2.pdb
+D:\WIPRO\Day2\DemoDay2\DemoDay2\obj\Debug\DemoDay2.csproj.AssemblyReference.cache
+D:\WIPRO\Day2\DemoDay2\DemoDay2\obj\Debug\DemoDay2.csproj.CoreCompileInputs.cache
+D:\WIPRO\Day2\DemoDay2\DemoDay2\obj\Debug\DemoDay2.exe
+D:\WIPRO\Day2\DemoDay2\DemoDay2\obj\Debug\DemoDay2.pdb
+D:\WIPRO\Day2\DemoDay2\DemoDay2\obj\Debug\DemoDay2.exe.config

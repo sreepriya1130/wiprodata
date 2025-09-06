@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WIPRO\\Day1\\AssignementProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9669F4C2-EDA1-4D67-BD21-03BC4A0921CF}|Project.Tests\\Project.Tests.csproj|d:\\wipro\\day1\\assignementproject\\project.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9669F4C2-EDA1-4D67-BD21-03BC4A0921CF}|Project.Tests\\Project.Tests.csproj|solutionrelative:project.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|AssignementProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9669F4C2-EDA1-4D67-BD21-03BC4A0921CF}|Project.Tests\\Project.Tests.csproj|d:\\wipro\\day1\\assignementproject\\project.tests\\project.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9669F4C2-EDA1-4D67-BD21-03BC4A0921CF}|Project.Tests\\Project.Tests.csproj|solutionrelative:project.tests\\project.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA3E6E-FF49-4424-9F69-BE558205985A}|AssignementProject\\AssignementProject.csproj|d:\\wipro\\day1\\assignementproject\\assignementproject\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AA3E6E-FF49-4424-9F69-BE558205985A}|AssignementProject\\AssignementProject.csproj|solutionrelative:assignementproject\\loggerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA3E6E-FF49-4424-9F69-BE558205985A}|AssignementProject\\AssignementProject.csproj|d:\\wipro\\day1\\assignementproject\\assignementproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AA3E6E-FF49-4424-9F69-BE558205985A}|AssignementProject\\AssignementProject.csproj|solutionrelative:assignementproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA3E6E-FF49-4424-9F69-BE558205985A}|AssignementProject\\AssignementProject.csproj|d:\\wipro\\day1\\assignementproject\\assignementproject\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AA3E6E-FF49-4424-9F69-BE558205985A}|AssignementProject\\AssignementProject.csproj|solutionrelative:assignementproject\\securityhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA3E6E-FF49-4424-9F69-BE558205985A}|AssignementProject\\AssignementProject.csproj|d:\\wipro\\day1\\assignementproject\\assignementproject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17AA3E6E-FF49-4424-9F69-BE558205985A}|AssignementProject\\AssignementProject.csproj|solutionrelative:assignementproject\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17AA3E6E-FF49-4424-9F69-BE558205985A}|AssignementProject\\AssignementProject.csproj|d:\\wipro\\day1\\assignementproject\\assignementproject\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day1\\AssignementProject\\AssignementProject\\User.cs",
+              "RelativeDocumentMoniker": "AssignementProject\\User.cs",
+              "ToolTip": "D:\\WIPRO\\Day1\\AssignementProject\\AssignementProject\\User.cs",
+              "RelativeToolTip": "AssignementProject\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:04:53.692Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AssignementProject",
+              "DocumentMoniker": "D:\\WIPRO\\Day1\\AssignementProject\\AssignementProject\\AssignementProject.csproj",
+              "RelativeDocumentMoniker": "AssignementProject\\AssignementProject.csproj",
+              "ToolTip": "D:\\WIPRO\\Day1\\AssignementProject\\AssignementProject\\AssignementProject.csproj",
+              "RelativeToolTip": "AssignementProject\\AssignementProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-22T10:31:05.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.Tests",
+              "DocumentMoniker": "D:\\WIPRO\\Day1\\AssignementProject\\Project.Tests\\Project.Tests.csproj",
+              "RelativeDocumentMoniker": "Project.Tests\\Project.Tests.csproj",
+              "ToolTip": "D:\\WIPRO\\Day1\\AssignementProject\\Project.Tests\\Project.Tests.csproj",
+              "RelativeToolTip": "Project.Tests\\Project.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-22T07:41:42.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day1\\AssignementProject\\Project.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "Project.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\WIPRO\\Day1\\AssignementProject\\Project.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "Project.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:24:13.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoggerService.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day1\\AssignementProject\\AssignementProject\\LoggerService.cs",
+              "RelativeDocumentMoniker": "AssignementProject\\LoggerService.cs",
+              "ToolTip": "D:\\WIPRO\\Day1\\AssignementProject\\AssignementProject\\LoggerService.cs",
+              "RelativeToolTip": "AssignementProject\\LoggerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:16:14.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SecurityHelper.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day1\\AssignementProject\\AssignementProject\\SecurityHelper.cs",
+              "RelativeDocumentMoniker": "AssignementProject\\SecurityHelper.cs",
+              "ToolTip": "D:\\WIPRO\\Day1\\AssignementProject\\AssignementProject\\SecurityHelper.cs",
+              "RelativeToolTip": "AssignementProject\\SecurityHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T07:14:17.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Day1\\AssignementProject\\AssignementProject\\Program.cs",
+              "RelativeDocumentMoniker": "AssignementProject\\Program.cs",
+              "ToolTip": "D:\\WIPRO\\Day1\\AssignementProject\\AssignementProject\\Program.cs",
+              "RelativeToolTip": "AssignementProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T06:14:41.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
