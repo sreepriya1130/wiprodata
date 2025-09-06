@@ -1,0 +1,6 @@
+D:\WIPRO\Assignment\Calculator\Calculator\bin\Debug\Calculator.dll
+D:\WIPRO\Assignment\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\WIPRO\Assignment\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\WIPRO\Assignment\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\WIPRO\Assignment\Calculator\Calculator\obj\Debug\Calculator.dll
+D:\WIPRO\Assignment\Calculator\Calculator\obj\Debug\Calculator.pdb

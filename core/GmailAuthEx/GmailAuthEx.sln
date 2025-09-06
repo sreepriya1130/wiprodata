@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36327.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GmailAuthEx", "GmailAuthEx\GmailAuthEx.csproj", "{341B92BC-416B-4C02-9FBC-C34AB74CDDA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GithubValidation", "..\GithubValidation\GithubValidation.csproj", "{67544535-3F18-49BC-882A-5E4BF99E5C07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{341B92BC-416B-4C02-9FBC-C34AB74CDDA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{341B92BC-416B-4C02-9FBC-C34AB74CDDA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{341B92BC-416B-4C02-9FBC-C34AB74CDDA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{341B92BC-416B-4C02-9FBC-C34AB74CDDA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67544535-3F18-49BC-882A-5E4BF99E5C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67544535-3F18-49BC-882A-5E4BF99E5C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67544535-3F18-49BC-882A-5E4BF99E5C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67544535-3F18-49BC-882A-5E4BF99E5C07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57416D33-68FD-4746-AFB1-4EEDEABE704C}
+	EndGlobalSection
+EndGlobal

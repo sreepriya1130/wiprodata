@@ -1,0 +1,6 @@
+D:\WIPRO\Assignment2\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.dll
+D:\WIPRO\Assignment2\LibraryManagement\LibraryManagement\bin\Debug\LibraryManagement.pdb
+D:\WIPRO\Assignment2\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.AssemblyReference.cache
+D:\WIPRO\Assignment2\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.csproj.CoreCompileInputs.cache
+D:\WIPRO\Assignment2\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.dll
+D:\WIPRO\Assignment2\LibraryManagement\LibraryManagement\obj\Debug\LibraryManagement.pdb

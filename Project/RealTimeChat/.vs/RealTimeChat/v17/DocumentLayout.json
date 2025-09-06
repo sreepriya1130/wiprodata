@@ -1,0 +1,264 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WIPRO\\Project\\RealTimeChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|d:\\wipro\\project\\realtimechat\\realtimechat\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|solutionrelative:realtimechat\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|d:\\wipro\\project\\realtimechat\\realtimechat\\realtimechat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|solutionrelative:realtimechat\\realtimechat.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|d:\\wipro\\project\\realtimechat\\realtimechat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|solutionrelative:realtimechat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|d:\\wipro\\project\\realtimechat\\realtimechat\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|solutionrelative:realtimechat\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|d:\\wipro\\project\\realtimechat\\realtimechat\\models\\chatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|solutionrelative:realtimechat\\models\\chatdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|d:\\wipro\\project\\realtimechat\\realtimechat\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|solutionrelative:realtimechat\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|d:\\wipro\\project\\realtimechat\\realtimechat\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|solutionrelative:realtimechat\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|d:\\wipro\\project\\realtimechat\\realtimechat\\models\\groupmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|solutionrelative:realtimechat\\models\\groupmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|d:\\wipro\\project\\realtimechat\\realtimechat\\models\\groupmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|solutionrelative:realtimechat\\models\\groupmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|d:\\wipro\\project\\realtimechat\\realtimechat\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|solutionrelative:realtimechat\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|d:\\wipro\\project\\realtimechat\\realtimechat\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|solutionrelative:realtimechat\\controllers\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|d:\\wipro\\project\\realtimechat\\realtimechat\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|solutionrelative:realtimechat\\controllers\\filescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|d:\\wipro\\project\\realtimechat\\realtimechat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|solutionrelative:realtimechat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|d:\\wipro\\project\\realtimechat\\realtimechat\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|solutionrelative:realtimechat\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|d:\\wipro\\project\\realtimechat\\realtimechat\\models\\chatlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8420011D-9D4B-47C6-8EF4-51E828985A41}|RealTimeChat\\RealTimeChat.csproj|solutionrelative:realtimechat\\models\\chatlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Program.cs",
+              "RelativeDocumentMoniker": "RealTimeChat\\Program.cs",
+              "ToolTip": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Program.cs",
+              "RelativeToolTip": "RealTimeChat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T04:40:55.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RealTimeChat\\Models\\User.cs",
+              "ToolTip": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Models\\User.cs",
+              "RelativeToolTip": "RealTimeChat\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T04:42:20.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Group.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "RealTimeChat\\Models\\Group.cs",
+              "ToolTip": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Models\\Group.cs",
+              "RelativeToolTip": "RealTimeChat\\Models\\Group.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T04:44:04.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GroupMember.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Models\\GroupMember.cs",
+              "RelativeDocumentMoniker": "RealTimeChat\\Models\\GroupMember.cs",
+              "ToolTip": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Models\\GroupMember.cs",
+              "RelativeToolTip": "RealTimeChat\\Models\\GroupMember.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T04:44:52.639Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "RealTimeChat\\Models\\Message.cs",
+              "ToolTip": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Models\\Message.cs",
+              "RelativeToolTip": "RealTimeChat\\Models\\Message.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T04:43:08.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatDbContext.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Models\\ChatDbContext.cs",
+              "RelativeDocumentMoniker": "RealTimeChat\\Models\\ChatDbContext.cs",
+              "ToolTip": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Models\\ChatDbContext.cs",
+              "RelativeToolTip": "RealTimeChat\\Models\\ChatDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAzMzMzIwpwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T04:46:08.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatController.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Controllers\\ChatController.cs",
+              "RelativeDocumentMoniker": "RealTimeChat\\Controllers\\ChatController.cs",
+              "ToolTip": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Controllers\\ChatController.cs",
+              "RelativeToolTip": "RealTimeChat\\Controllers\\ChatController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:19:41.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RealTimeChat.csproj",
+              "DocumentMoniker": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\RealTimeChat.csproj",
+              "RelativeDocumentMoniker": "RealTimeChat\\RealTimeChat.csproj",
+              "ToolTip": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\RealTimeChat.csproj",
+              "RelativeToolTip": "RealTimeChat\\RealTimeChat.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-28T06:51:51.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\ChatHub.cs",
+              "RelativeDocumentMoniker": "RealTimeChat\\ChatHub.cs",
+              "ToolTip": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\ChatHub.cs",
+              "RelativeToolTip": "RealTimeChat\\ChatHub.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAowFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T07:29:48.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GroupMessage.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Models\\GroupMessage.cs",
+              "RelativeDocumentMoniker": "RealTimeChat\\Models\\GroupMessage.cs",
+              "ToolTip": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Models\\GroupMessage.cs",
+              "RelativeToolTip": "RealTimeChat\\Models\\GroupMessage.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T07:41:20.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Controllers\\GroupsController.cs",
+              "RelativeDocumentMoniker": "RealTimeChat\\Controllers\\GroupsController.cs",
+              "ToolTip": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Controllers\\GroupsController.cs",
+              "RelativeToolTip": "RealTimeChat\\Controllers\\GroupsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA6wEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T07:25:21.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FilesController.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Controllers\\FilesController.cs",
+              "RelativeDocumentMoniker": "RealTimeChat\\Controllers\\FilesController.cs",
+              "ToolTip": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Controllers\\FilesController.cs",
+              "RelativeToolTip": "RealTimeChat\\Controllers\\FilesController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T07:23:22.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ChatLog.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Models\\ChatLog.cs",
+              "RelativeDocumentMoniker": "RealTimeChat\\Models\\ChatLog.cs",
+              "ToolTip": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Models\\ChatLog.cs",
+              "RelativeToolTip": "RealTimeChat\\Models\\ChatLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T04:45:28.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RealTimeChat\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RealTimeChat\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T07:17:07.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\appsettings.json",
+              "RelativeDocumentMoniker": "RealTimeChat\\appsettings.json",
+              "ToolTip": "D:\\WIPRO\\Project\\RealTimeChat\\RealTimeChat\\appsettings.json",
+              "RelativeToolTip": "RealTimeChat\\appsettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T04:52:28.788Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+two things we need to add for jwt
+1 -> microsoft.AspNetCore.Authentication.OAuth
+
+2 -> Microsoft.AspNetCore.Authentication.OpenIdConnect
+
+3 -> microsoft.AspNetCore.Authentication.OAuth.Google

@@ -1,0 +1,12 @@
+@model RoleBasedProductMgmt.Models.Product
+@{
+    ViewData["Title"] = "Delete Product";
+}
+<h2>Delete Product</h2>
+<div class="alert alert-warning">Are you sure you want to delete "@Model.Name"?</div>
+<form asp-action="Delete" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="Id"/>
+    <button type="submit" class="btn btn-danger">Delete</button>
+    <a class="btn btn-secondary" href="/Product">Cancel</a>
+</form>

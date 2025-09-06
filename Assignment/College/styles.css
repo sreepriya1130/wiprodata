@@ -1,0 +1,28 @@
+/* Smooth scrolling */
+html, body {
+  scroll-behavior: smooth;
+}
+
+/* Card styling */
+.card {
+  border: 0;
+  border-radius: 1rem;
+}
+
+/* Table responsiveness */
+.table thead th {
+  white-space: nowrap;
+}
+
+/* Timetable container */
+.table-responsive {
+  background: #fff;
+  border-radius: 1rem;
+}
+
+/* Mobile adjustments */
+@media (max-width: 576px) {
+  nav .btn {
+    padding: 0.35rem 0.6rem;
+  }
+}

@@ -1,0 +1,5 @@
+to install components the command will be
+>npm install -g reactjs-component-generator
+
+to make the component 
+>rg component first -f

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WIPRO\\Assignment2\\LibraryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{947321BE-D801-45B0-9D62-6E8D30D514B9}|..\\LibraryManagement.Test\\LibraryManagement.Test.csproj|d:\\wipro\\assignment2\\librarymanagement.test\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DB5500-A673-4C3C-8875-27091A22E981}|LibraryManagement\\LibraryManagement.csproj|d:\\wipro\\assignment2\\librarymanagement\\librarymanagement\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DB5500-A673-4C3C-8875-27091A22E981}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DB5500-A673-4C3C-8875-27091A22E981}|LibraryManagement\\LibraryManagement.csproj|d:\\wipro\\assignment2\\librarymanagement\\librarymanagement\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DB5500-A673-4C3C-8875-27091A22E981}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DB5500-A673-4C3C-8875-27091A22E981}|LibraryManagement\\LibraryManagement.csproj|d:\\wipro\\assignment2\\librarymanagement\\librarymanagement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DB5500-A673-4C3C-8875-27091A22E981}|LibraryManagement\\LibraryManagement.csproj|solutionrelative:librarymanagement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Assignment2\\LibraryManagement.Test\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\LibraryManagement.Test\\UnitTest1.cs",
+              "ToolTip": "D:\\WIPRO\\Assignment2\\LibraryManagement.Test\\UnitTest1.cs",
+              "RelativeToolTip": "..\\LibraryManagement.Test\\UnitTest1.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T17:03:50.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Assignment2\\LibraryManagement\\LibraryManagement\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Library.cs",
+              "ToolTip": "D:\\WIPRO\\Assignment2\\LibraryManagement\\LibraryManagement\\Library.cs",
+              "RelativeToolTip": "LibraryManagement\\Library.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAxwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T17:01:08.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Borrower.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Assignment2\\LibraryManagement\\LibraryManagement\\Borrower.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Borrower.cs",
+              "ToolTip": "D:\\WIPRO\\Assignment2\\LibraryManagement\\LibraryManagement\\Borrower.cs",
+              "RelativeToolTip": "LibraryManagement\\Borrower.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:57:13.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\WIPRO\\Assignment2\\LibraryManagement\\LibraryManagement\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagement\\Book.cs",
+              "ToolTip": "D:\\WIPRO\\Assignment2\\LibraryManagement\\LibraryManagement\\Book.cs",
+              "RelativeToolTip": "LibraryManagement\\Book.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T16:48:09.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

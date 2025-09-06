@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WIPRO\\react_wipro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WIPRO\\react_wipro\\bankproject\\src\\components\\createAccount\\createAccount.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bankproject\\src\\components\\createAccount\\createAccount.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WIPRO\\react_wipro\\bankproject\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bankproject\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WIPRO\\react_wipro\\bankproject\\src\\components\\withdraw\\withdraw.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bankproject\\src\\components\\withdraw\\withdraw.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WIPRO\\react_wipro\\bankproject\\src\\components\\showAccount\\showAccount.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bankproject\\src\\components\\showAccount\\showAccount.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WIPRO\\react_wipro\\bankproject\\src\\components\\searchAccount\\searchAccount.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bankproject\\src\\components\\searchAccount\\searchAccount.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\WIPRO\\react_wipro\\bankproject\\src\\components\\deposit\\deposit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bankproject\\src\\components\\deposit\\deposit.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.js",
+              "DocumentMoniker": "D:\\WIPRO\\react_wipro\\bankproject\\src\\App.js",
+              "RelativeDocumentMoniker": "bankproject\\src\\App.js",
+              "ToolTip": "D:\\WIPRO\\react_wipro\\bankproject\\src\\App.js",
+              "RelativeToolTip": "bankproject\\src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-19T05:39:47.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "withdraw.js",
+              "DocumentMoniker": "D:\\WIPRO\\react_wipro\\bankproject\\src\\components\\withdraw\\withdraw.js",
+              "RelativeDocumentMoniker": "bankproject\\src\\components\\withdraw\\withdraw.js",
+              "ToolTip": "D:\\WIPRO\\react_wipro\\bankproject\\src\\components\\withdraw\\withdraw.js",
+              "RelativeToolTip": "bankproject\\src\\components\\withdraw\\withdraw.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-19T05:39:44.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "showAccount.js",
+              "DocumentMoniker": "D:\\WIPRO\\react_wipro\\bankproject\\src\\components\\showAccount\\showAccount.js",
+              "RelativeDocumentMoniker": "bankproject\\src\\components\\showAccount\\showAccount.js",
+              "ToolTip": "D:\\WIPRO\\react_wipro\\bankproject\\src\\components\\showAccount\\showAccount.js",
+              "RelativeToolTip": "bankproject\\src\\components\\showAccount\\showAccount.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-19T05:39:41.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "searchAccount.js",
+              "DocumentMoniker": "D:\\WIPRO\\react_wipro\\bankproject\\src\\components\\searchAccount\\searchAccount.js",
+              "RelativeDocumentMoniker": "bankproject\\src\\components\\searchAccount\\searchAccount.js",
+              "ToolTip": "D:\\WIPRO\\react_wipro\\bankproject\\src\\components\\searchAccount\\searchAccount.js",
+              "RelativeToolTip": "bankproject\\src\\components\\searchAccount\\searchAccount.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-19T05:39:38.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "deposit.js",
+              "DocumentMoniker": "D:\\WIPRO\\react_wipro\\bankproject\\src\\components\\deposit\\deposit.js",
+              "RelativeDocumentMoniker": "bankproject\\src\\components\\deposit\\deposit.js",
+              "ToolTip": "D:\\WIPRO\\react_wipro\\bankproject\\src\\components\\deposit\\deposit.js",
+              "RelativeToolTip": "bankproject\\src\\components\\deposit\\deposit.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-19T05:39:26.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "createAccount.js",
+              "DocumentMoniker": "D:\\WIPRO\\react_wipro\\bankproject\\src\\components\\createAccount\\createAccount.js",
+              "RelativeDocumentMoniker": "bankproject\\src\\components\\createAccount\\createAccount.js",
+              "ToolTip": "D:\\WIPRO\\react_wipro\\bankproject\\src\\components\\createAccount\\createAccount.js",
+              "RelativeToolTip": "bankproject\\src\\components\\createAccount\\createAccount.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-08-18T03:37:46.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

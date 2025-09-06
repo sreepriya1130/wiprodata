@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WIPRO\\core\\lms\\LmsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{836C6005-5B0D-4124-86C2-582B18E0C48F}|LmsProject\\LmsProject.csproj|d:\\wipro\\core\\lms\\lmsproject\\lmsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836C6005-5B0D-4124-86C2-582B18E0C48F}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836C6005-5B0D-4124-86C2-582B18E0C48F}|LmsProject\\LmsProject.csproj|d:\\wipro\\core\\lms\\lmsproject\\lmsproject\\controllers\\leavehistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836C6005-5B0D-4124-86C2-582B18E0C48F}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\controllers\\leavehistoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836C6005-5B0D-4124-86C2-582B18E0C48F}|LmsProject\\LmsProject.csproj|d:\\wipro\\core\\lms\\lmsproject\\lmsproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836C6005-5B0D-4124-86C2-582B18E0C48F}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836C6005-5B0D-4124-86C2-582B18E0C48F}|LmsProject\\LmsProject.csproj|d:\\wipro\\core\\lms\\lmsproject\\lmsproject\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836C6005-5B0D-4124-86C2-582B18E0C48F}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836C6005-5B0D-4124-86C2-582B18E0C48F}|LmsProject\\LmsProject.csproj|d:\\wipro\\core\\lms\\lmsproject\\lmsproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{836C6005-5B0D-4124-86C2-582B18E0C48F}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836C6005-5B0D-4124-86C2-582B18E0C48F}|LmsProject\\LmsProject.csproj|d:\\wipro\\core\\lms\\lmsproject\\lmsproject\\models\\lmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836C6005-5B0D-4124-86C2-582B18E0C48F}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\models\\lmsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{836C6005-5B0D-4124-86C2-582B18E0C48F}|LmsProject\\LmsProject.csproj|d:\\wipro\\core\\lms\\lmsproject\\lmsproject\\models\\leavehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{836C6005-5B0D-4124-86C2-582B18E0C48F}|LmsProject\\LmsProject.csproj|solutionrelative:lmsproject\\models\\leavehistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaveHistoriesController.cs",
+              "DocumentMoniker": "D:\\WIPRO\\core\\lms\\LmsProject\\LmsProject\\Controllers\\LeaveHistoriesController.cs",
+              "RelativeDocumentMoniker": "LmsProject\\Controllers\\LeaveHistoriesController.cs",
+              "ToolTip": "D:\\WIPRO\\core\\lms\\LmsProject\\LmsProject\\Controllers\\LeaveHistoriesController.cs",
+              "RelativeToolTip": "LmsProject\\Controllers\\LeaveHistoriesController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAwwHcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T10:20:33.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\WIPRO\\core\\lms\\LmsProject\\LmsProject\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "LmsProject\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\WIPRO\\core\\lms\\LmsProject\\LmsProject\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "LmsProject\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:35:51.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WIPRO\\core\\lms\\LmsProject\\LmsProject\\Program.cs",
+              "RelativeDocumentMoniker": "LmsProject\\Program.cs",
+              "ToolTip": "D:\\WIPRO\\core\\lms\\LmsProject\\LmsProject\\Program.cs",
+              "RelativeToolTip": "LmsProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:33:13.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WIPRO\\core\\lms\\LmsProject\\LmsProject\\appsettings.json",
+              "RelativeDocumentMoniker": "LmsProject\\appsettings.json",
+              "ToolTip": "D:\\WIPRO\\core\\lms\\LmsProject\\LmsProject\\appsettings.json",
+              "RelativeToolTip": "LmsProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-20T06:31:53.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LmsDbContext.cs",
+              "DocumentMoniker": "D:\\WIPRO\\core\\lms\\LmsProject\\LmsProject\\Models\\LmsDbContext.cs",
+              "RelativeDocumentMoniker": "LmsProject\\Models\\LmsDbContext.cs",
+              "ToolTip": "D:\\WIPRO\\core\\lms\\LmsProject\\LmsProject\\Models\\LmsDbContext.cs",
+              "RelativeToolTip": "LmsProject\\Models\\LmsDbContext.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA0wBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:30:08.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LeaveHistory.cs",
+              "DocumentMoniker": "D:\\WIPRO\\core\\lms\\LmsProject\\LmsProject\\Models\\LeaveHistory.cs",
+              "RelativeDocumentMoniker": "LmsProject\\Models\\LeaveHistory.cs",
+              "ToolTip": "D:\\WIPRO\\core\\lms\\LmsProject\\LmsProject\\Models\\LeaveHistory.cs",
+              "RelativeToolTip": "LmsProject\\Models\\LeaveHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:29:08.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\WIPRO\\core\\lms\\LmsProject\\LmsProject\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "LmsProject\\Models\\Employee.cs",
+              "ToolTip": "D:\\WIPRO\\core\\lms\\LmsProject\\LmsProject\\Models\\Employee.cs",
+              "RelativeToolTip": "LmsProject\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T06:27:08.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

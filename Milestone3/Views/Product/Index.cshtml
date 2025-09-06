@@ -1,0 +1,42 @@
+@model IEnumerable<RoleBasedProductMgmt.Models.Product>
+@{
+    ViewData["Title"] = "Product List";
+}
+@if (TempData["Message"] is string msg)
+{
+    <div class="alert alert-success">@msg</div>
+}
+<div class="d-flex justify-content-between align-items-center mb-3">
+    <h2>Products</h2>
+    @if (User.IsInRole("Admin"))
+    {
+        <a class="btn btn-success" href="/Product/Create">Create Product</a>
+    }
+</div>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.Id</td>
+                <td>@p.Name</td>
+                <td>$@p.Price</td>
+                <td>
+                    <a class="btn btn-sm btn-primary" href="/Product/Edit/@p.Id">Edit</a>
+                    @if (User.IsInRole("Admin"))
+                    {
+                        <a class="btn btn-sm btn-danger" href="/Product/Delete/@p.Id">Delete</a>
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
