@@ -1,8 +1,0 @@
-D:\WIPRO\Day10\SRPWith\SRPWith\bin\Debug\SRPWith.exe.config
-D:\WIPRO\Day10\SRPWith\SRPWith\bin\Debug\SRPWith.exe
-D:\WIPRO\Day10\SRPWith\SRPWith\bin\Debug\SRPWith.pdb
-D:\WIPRO\Day10\SRPWith\SRPWith\obj\Debug\SRPWith.csproj.AssemblyReference.cache
-D:\WIPRO\Day10\SRPWith\SRPWith\obj\Debug\SRPWith.csproj.CoreCompileInputs.cache
-D:\WIPRO\Day10\SRPWith\SRPWith\obj\Debug\SRPWith.exe
-D:\WIPRO\Day10\SRPWith\SRPWith\obj\Debug\SRPWith.pdb
-D:\WIPRO\Day10\SRPWith\SRPWith\obj\Debug\SRPWith.exe.config
